@@ -2,6 +2,8 @@
 
 Welcome to the Astro + Shadcn Starter Template! This project is designed to help you get started quickly with [Astro](https://astro.build) and [Shadcn UI](https://ui.shadcn.com). It includes Tailwind CSS for styling and React for building interactive components.
 
+![astroxshadcn](https://github.com/user-attachments/assets/99b0b2a1-3ef9-4f28-a347-91c665279c2d)
+
 ## Table of Contents
 
 - [Features](#features)
