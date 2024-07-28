@@ -54,7 +54,7 @@ Ensure you have the following installed:
     Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ## Project Structure
-
+```
 ├── public # Static assets
 ├── src
 │ ├── components # React components
@@ -66,6 +66,7 @@ Ensure you have the following installed:
 ├── astro.config.mjs # Astro configuration
 ├── tailwind.config.mjs # Tailwind CSS configuration
 └── package.json # Project metadata and dependencies
+```
 
 ## Usage
 
